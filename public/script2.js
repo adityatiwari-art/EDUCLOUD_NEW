@@ -52,7 +52,7 @@ class customHeader extends HTMLElement {
                         New Courses
                       </li></a
                     >
-                    <a href="https://adityatiwari-art.github.io/portfolio/" class="navitem">
+                    <a href=#>
                       <li class="hidenav">
                         <i class="bi bi-person bicon"></i>About us
                       </li>
@@ -194,7 +194,7 @@ class customHeader1 extends HTMLElement {
                     <i class="bi bi-collection bicon"></i>
                     New Courses
                   </li></a>
-                  <a href="https://adityatiwari-art.github.io/portfolio/" class="navitem">
+                  <a href=# class="navitem">
                     <li class="hidenav">
                       <i class="bi bi-person bicon"></i>About us
                     </li>
@@ -294,7 +294,7 @@ class signInHeader extends HTMLElement{
                     </div>
                   </li></a
                 >
-                <a href="http://localhost:5000/" class="navitem">
+                <a href=# class="navitem">
                   <li class="hidenav">
                     <i class="bi bi-code bicon"></i>
                     Programming
