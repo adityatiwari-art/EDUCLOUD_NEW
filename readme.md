@@ -26,7 +26,8 @@ Welcome to **EDUCLOUD**, an educational website project designed to provide a co
 4. **Axios vs Fetch API**: It is preferred to use **Axios** for API requests instead of the Fetch API for consistency and enhanced functionality.
 5. **Programming Section**: The programming section is not functioning correctly and needs to be reviewed, modified, or removed.
 6. **Responsiveness**: Ensure the website is fully responsive and performs well across various device sizes. Testing on different screen resolutions is required.
-7. **Directory Structure**:While this project is functional, it’s important to note that the current directory structure may not be optimal. Here are a few points to consider:
+7. **UI/UX design**
+8. **Directory Structure**:While this project is functional, it’s important to note that the current directory structure may not be optimal. Here are a few points to consider:
 
 - **Organizational Improvements**: The directory structure could benefit from a more organized layout to improve navigation and maintainability. Consider revisiting the folder hierarchy to ensure related components and files are grouped logically.
 
