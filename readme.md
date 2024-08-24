@@ -27,7 +27,16 @@ Welcome to **EDUCLOUD**, an educational website project designed to provide a co
 5. **Programming Section**: The programming section is not functioning correctly and needs to be reviewed, modified, or removed.
 6. **Responsiveness**: Ensure the website is fully responsive and performs well across various device sizes. Testing on different screen resolutions is required.
 7. **UI/UX design**
-8. **Directory Structure**:While this project is functional, it’s important to note that the current directory structure may not be optimal. Here are a few points to consider:
+8. **Video Playback**:
+
+Currently, the project uses the YouTube Player to display lecture videos. However, we are planning to develop and integrate our own video player to offer a more customized and controlled viewing experience. 
+
+-Key Requirements for the New Video Player:
+
+- **Custom Controls**: Implement custom playback controls that match our specific needs.
+- **Enhanced Features**: Include additional features such as annotations, interactive elements, or integration with other project components.
+- **Performance**: Ensure that the video player performs efficiently and handles various video formats and resolutions.
+9. **Directory Structure**:While this project is functional, it’s important to note that the current directory structure may not be optimal. Here are a few points to consider:
 
 - **Organizational Improvements**: The directory structure could benefit from a more organized layout to improve navigation and maintainability. Consider revisiting the folder hierarchy to ensure related components and files are grouped logically.
 
